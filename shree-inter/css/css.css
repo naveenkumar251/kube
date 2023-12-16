@@ -1,0 +1,162 @@
+*
+{
+	margin:0;
+	padding:0;
+	
+}
+
+.main-bg{
+	background: url("../images/bg5.png") repeat;
+	#C39460
+	padding-bottom: 29px;
+	-webkit-box-shadow: 0px 6px 14px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 6px 14px -6px rgba(0,0,0,0.75);
+box-shadow: 0px 6px 14px -6px rgba(0,0,0,0.75);
+}
+header
+{
+	
+	
+    padding-bottom: 16px;
+	padding-top: 16px;
+}
+.tagline.navbar-right {
+    background: #fff;
+    
+    font-size: 18px;
+    letter-spacing: 0.6px;
+    margin-bottom: 29px;
+    padding: 4px 11px;
+}
+.tagline strong {
+    color: #9a4e00;
+}
+.menu-bg{
+	background:#face2d none repeat scroll 0 0;
+}
+.main-content {
+    background: rgba(0, 0, 0, 0) url("../images/top_divider.png") no-repeat scroll center bottom;
+    margin: 20px 0 27px;
+    padding: 21px 0;
+    text-align: center;
+}
+.main-content h4, #demo h4, .inner-main-content h4, .innerbanner h4
+{
+	font-size: 29px;
+}
+
+.main-content span, #demo span, .inner-main-content span
+{
+    color: rgb(203,151, 103);
+	font-size: 29px;
+}
+
+
+.main-content p {
+    font-size: 17px;
+    letter-spacing: 0.4px;
+    line-height: 19px;
+    margin-bottom: 10px;
+}
+.item {
+    margin: 0 7px;
+}
+
+.owl-prev {
+background: rgba(0, 0, 0, 0) url("../images/lat_arrow_h.png") no-repeat scroll 0 0;
+    left: -20px;
+	height:12px;
+    position: absolute;
+    text-indent: -999px;
+    top: 45%;
+}
+.owl-next {
+background: url("../images/right_arrow_h.png") no-repeat;
+    right: -27px;
+	height:12px;
+    position: absolute;
+    top: 45%;
+}
+
+
+
+/* inner page */
+.sidebar {
+    border-right: 1px solid #9a4e00;
+}
+.inner-main-content {
+    background: rgba(255, 255, 255, 0.6) none repeat scroll 0 0;
+	border: 2px solid #fff;
+    padding: 17px 5px;
+}
+.innerbanner {
+    margin-top: 43px;
+}
+
+.innerbanner .flex-prev
+{
+	background: rgba(0, 0, 0, 0) url("../images/lat_arrow_h.png") no-repeat scroll 0 0 !important;
+	left: -17px !important;
+}
+
+.innerbanner .flex-next
+{
+	background: url("../images/right_arrow_h.png") no-repeat scroll 0 0 !important;
+	right: -53px !important;
+}
+
+.innerbanner .slides p {
+    font-size: 14px;
+    padding: 0 5px;
+}
+
+.owl-pagination {
+    display: none;
+}
+.name {
+    background: #fff none repeat scroll 0 0;
+    border-left: 5px solid #9a4e00;
+    color: #9a4e00;
+    float: right;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    padding: 3px 13px;
+}
+#services li {
+    font-size: 19px;
+	list-style: inside none disc;
+	}
+.inner-main-content p {
+    font-size: 18px;
+	line-height:25px
+	
+}
+form span
+{
+	font-size:15px !important;
+}
+.contact {
+    min-height: 21px !important;
+	font-weight:bold;
+}
+.contact label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    width: 80px;
+}
+.btn-warning
+{
+	background: #fff !important;
+	border-top: 2px solid #9A4E00 !important;
+	border:none;
+	color:#9A4E00;
+}
+
+.footer {
+    background: #dcc287 none repeat scroll 0 0;
+    color: #000;
+	font-size: 17px;
+    letter-spacing: 0.6px;
+    padding: 17px 0 3px;
+}
