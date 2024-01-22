@@ -3,3 +3,5 @@ sudo wget -O /usr/share/keyrings/jenkins-keyring.asc   https://pkg.jenkins.io/de
 sudo su
 ifconfig
 sudo su
+ip a
+sudo bash
